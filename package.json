@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [react-native-store (v0.4.1)](https://github.com/thewei/react-native-store)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native-store.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native-store) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native-store.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native-store)",
+    "description": "#### basic test coverage for  [react-native-store (v0.4.1)](https://github.com/thewei/react-native-store)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native-store.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native-store) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native-store.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native-store)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "react-native-store": "*",

@@ -1,6 +1,6 @@
 # npmtest-react-native-store
 
-#### test coverage for  [react-native-store (v0.4.1)](https://github.com/thewei/react-native-store)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native-store.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native-store) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native-store.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native-store)
+#### basic test coverage for  [react-native-store (v0.4.1)](https://github.com/thewei/react-native-store)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native-store.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native-store) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native-store.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native-store)
 
 #### A simple database base on react-native AsyncStorage.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-native-store/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-native-store/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-native-store/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-native-store/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native-store/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native-store/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-native-store/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-native-store/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native-store/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native-store/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-native-store/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-native-store/build/coverage.html/index.html)
 
@@ -102,7 +102,8 @@
         "test": "jest --verbose",
         "watch": "babel src --watch --presets es2015,stage-0 --out-dir lib"
     },
-    "version": "0.4.1"
+    "version": "0.4.1",
+    "bin": {}
 }
 ```
 
